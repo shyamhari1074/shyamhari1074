@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+<h3 align="left">GitHub Activity Graph:</h3>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shyam Hari's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shyamhari1074&theme=github-compact" /></a>
