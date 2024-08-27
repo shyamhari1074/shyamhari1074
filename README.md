@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-💻 I'm pursuing Computer Science and Engineering at St. Joseph's College of Engineering and Technology, Palai.
-🤖 I'm passionate about programming, problem solving, microcontrollers, designing, and innovative project.
-📚 I’m currently learning Data Structures using C,Python.
+💻 I'm pursuing Computer Science and Engineering at St. Joseph's College of Engineering and Technology, Palai.<br>
+🤖 I'm passionate about programming, problem solving, microcontrollers, designing, and innovative project.<br>
+📚 I’m currently learning Data Structures using C,Python.<br>
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
