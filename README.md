@@ -2,7 +2,7 @@
 
 💻 I'm pursuing Btech in Ai and Data Science  at St. Joseph's College of Engineering and Technology, Palai.<br>
 🤖 I'm passionate about programming, problem solving, microcontrollers, designing, and innovative project.<br>
-📚 I’m currently learning Data Structures using C,Python.<br>
+📚 I’m currently learning Data Structures using C,Python,data science.<br>
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
