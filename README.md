@@ -28,7 +28,8 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shyam Hari's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shyamhari1074&theme=github-compact" /></a> 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shyam-hari-5389492b3) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shyam-hari-5389492b3) 
+
 
 
 
