@@ -4,7 +4,11 @@
 🤖 I'm passionate about programming, problem solving, microcontrollers, designing, and innovative project.<br>
 📚 I’m currently learning Data Structures using C,Python,data science.<br>
 
+
 <hr>
+
+![68747470733a2f2f6173736574732d676c6f62616c2e776562736974652d66696c65732e636f6d2f3563313931303063326235303037336536656536396461312f3630643335393637613835336131623134383531373033625f416c6c25323074686525323064617](https://github.com/user-attachments/assets/98d40439-f7e1-407c-b03d-7987ef865ea7)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamhari1074&label=Profile%20views&color=0e75b6&style=flat" alt="shyamhari1074" /> </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
