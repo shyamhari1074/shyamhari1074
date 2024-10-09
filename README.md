@@ -4,13 +4,11 @@
 🤖 I'm passionate about programming, problem solving, microcontrollers, designing, and innovative project.<br>
 📚 I’m currently learning Data Structures using C,Python,data science.<br>
 
-
-<hr>
-
-![68747470733a2f2f6173736574732d676c6f62616c2e776562736974652d66696c65732e636f6d2f3563313931303063326235303037336536656536396461312f3630643335393637613835336131623134383531373033625f416c6c25323074686525323064617](https://github.com/user-attachments/assets/98d40439-f7e1-407c-b03d-7987ef865ea7)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamhari1074&label=Profile%20views&color=0e75b6&style=flat" alt="shyamhari1074" /> </p>
 <hr>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shyam-hari-5389492b3) 
+
 <h3 align="left">Languages and Tools:</h3>
 
 
@@ -32,19 +30,5 @@
 <h3 align="left">GitHub Activity Graph:</h3>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shyam Hari's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shyamhari1074&theme=github-compact" /></a> 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shyam-hari-5389492b3) 
 
 
-
-
-
-### ✍️ Random  Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shyamhari1074&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
