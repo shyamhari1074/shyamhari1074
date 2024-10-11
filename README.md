@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamhari1074&label=Profile%20views&color=0e75b6&style=flat" alt="shyamhari1074" /> </p>
 <hr>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shyam-hari-5389492b3) 
 
 <h3 align="left">Languages and Tools:</h3>
 
