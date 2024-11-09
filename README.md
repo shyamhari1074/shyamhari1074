@@ -1,11 +1,14 @@
-## Hi there 👋
+### Hi there 👋
 
 💻 I'm pursuing Btech in Ai and Data Science  at St. Joseph's College of Engineering and Technology, Palai.<br>
 🤖 I'm passionate about programming, problem solving, microcontrollers, designing, and innovative project.<br>
 📚 I’m currently learning Data Structures using C,Python,data science.<br>
+![eb0f2c114445403 603bc566bd64d](https://github.com/user-attachments/assets/ab09aad4-e61b-4384-ae6b-9ef8a645e378)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamhari1074&label=Profile%20views&color=0e75b6&style=flat" alt="shyamhari1074" /> </p>
 <hr>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
