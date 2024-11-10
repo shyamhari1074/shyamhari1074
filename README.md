@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-💻 I'm pursuing Btech in Ai and Data Science  at St. Joseph's College of Engineering and Technology, Palai.<br>
-🤖 I'm passionate about programming, problem solving, microcontrollers, designing, and innovative project.<br>
-📚 I’m currently learning Data Structures using C,Python,data science.<br>
+I'm a sophomore majoring in AI and Data Science, passionate about data and constantly expanding my skills in analysis, AI, and leadership through hands-on projects and campus involvement<br>
 ![eb0f2c114445403 603bc566bd64d](https://github.com/user-attachments/assets/ab09aad4-e61b-4384-ae6b-9ef8a645e378)
 
 
