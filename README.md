@@ -1,6 +1,54 @@
-### Hi there 👋
 
-I'm a sophomore majoring in AI and Data Science, passionate about data and constantly expanding my skills in analysis, AI, and leadership through hands-on projects and campus involvement<br>
+# 👋 Hi there, I'm Shyam Hari!  
+
+## 🚀 About Me  
+I'm a **sophomore student majoring in Artificial Intelligence and Data Science** with a passion for leveraging data to uncover insights and solve real-world problems. Currently, I'm honing my skills in data analysis, machine learning, and software development while exploring exciting projects in the field.  
+
+📍 **Institution**: SJCET Palai  
+🎓 **Semester**: 3rd  
+🔍 **GitHub Username**: [shyamhari1074](https://github.com/shyamhari1074)  
+
+---
+
+## 🧠 Skills  
+### 🌟 Core Data Science  
+- **Programming**: Python, R(learning),Java (completed Java Fundamentals course on Infosys Springboard)  
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch  
+- **Databases**: SQL, MongoDB  
+
+### 🖥️ Tools & Platforms  
+- **Version Control**: Git & GitHub  
+- **IDEs**: IntelliJ, Pycharm, Jupyter Notebook
+- **Visualization**: Tableau, Power BI, Plotly  
+- **Cloud Services**: Google Cloud, AWS (basics)  
+
+### 🛠️ Development  
+- **Problem Solving**: Data Structures & Algorithms   
+
+## 📈 Ongoing Learning  
+- Exploring **market trends** and advanced **data science concepts**  
+- Building a **personalized course progress tracking application**  
+- Enhancing **leadership skills** through active participation in events  
+
+---
+
+## 📚 Current Projects  
+1. **Course Tracking System**: Personalized progress tracking and recommendations for career growth
+2. **RealEstate price prediction**:  build a real estate price prediction website
+3. **Cold email generator**: This tools helps Software and AI services companies send cold emails to their potential clients
+
+---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyamhari/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/shyamhari1074)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:shyamhwrk@gmail.com)  
+
+---
+
+🌟 "The journey of becoming a data scientist is as much about asking the right questions as it is about finding the answers."  
+
 ![eb0f2c114445403 603bc566bd64d](https://github.com/user-attachments/assets/ab09aad4-e61b-4384-ae6b-9ef8a645e378)
 
 
