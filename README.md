@@ -49,7 +49,7 @@ I'm a **sophomore student majoring in Artificial Intelligence and Data Science**
 
 🌟 "The journey of becoming a data scientist is as much about asking the right questions as it is about finding the answers."  
 
-![eb0f2c114445403 603bc566bd64d](https://github.com/user-attachments/assets/ab09aad4-e61b-4384-ae6b-9ef8a645e378)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamhari1074&label=Profile%20views&color=0e75b6&style=flat" alt="shyamhari1074" /> </p>
