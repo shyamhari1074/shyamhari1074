@@ -2,10 +2,10 @@
 # 👋 Hi there, I'm Shyam Hari!  
 
 ## 🚀 About Me  
-I'm a **sophomore student majoring in Artificial Intelligence and Data Science** with a passion for leveraging data to uncover insights and solve real-world problems. Currently, I'm honing my skills in data analysis, machine learning, and software development while exploring exciting projects in the field.  
+I'm a **junior B.Tech student(3rd yr) majoring in Artificial Intelligence and Data Science** with a passion for leveraging data to uncover insights and solve real-world problems. Currently, I'm honing my skills in data analysis, machine learning, and software development while exploring exciting projects in the field.  
 
 📍 **Institution**: SJCET Palai  
-🎓 **Semester**: 4th  
+🎓 **Semester**: 5th  
 🔍 **GitHub Username**: [shyamhari1074](https://github.com/shyamhari1074)  
 
 ---
