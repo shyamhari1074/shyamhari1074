@@ -26,17 +26,6 @@ I'm a **junior B.Tech student(3rd yr) majoring in Artificial Intelligence and Da
 ### 🛠️ Development  
 - **Problem Solving**: Data Structures & Algorithms   
 
-## 📈 Ongoing Learning  
-- Exploring **market trends** and advanced **data science concepts**  
-- Building a **personalized course progress tracking application**  
-- Enhancing **leadership skills** through active participation in events  
-
----
-
-## 📚 Current Projects  
-1. **Course Tracking System**: Personalized progress tracking and recommendations for career growth
-2. **RealEstate price prediction**:  build a real estate price prediction website
-3. **Cold email generator**: This tools helps Software and AI services companies send cold emails to their potential clients
 
 ---
 
