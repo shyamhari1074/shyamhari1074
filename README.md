@@ -2,7 +2,7 @@
 #  Hi there, I'm Shyam Hari!  
 
 ##  About Me  
-I'm a **junior B.Tech student(3rd yr) majoring in Artificial Intelligence and Data Science** with a passion for leveraging data to uncover insights and solve real-world problems. Currently, I'm honing my skills in data analysis, machine learning, and software development while exploring exciting projects in the field.  
+I'm a ** B.Tech student(4th yr) majoring in Artificial Intelligence and Data Science** with a passion for leveraging data to uncover insights and solve real-world problems. Currently, I'm honing my skills in data analysis, machine learning, and software development while exploring exciting projects in the field.  
 
 📍 **Institution**: SJCET Palai  
 🎓 **Semester**: 6th  
