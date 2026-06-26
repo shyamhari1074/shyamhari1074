@@ -5,7 +5,7 @@
 I'm a ** B.Tech student(4th yr) majoring in Artificial Intelligence and Data Science** with a passion for leveraging data to uncover insights and solve real-world problems. Currently, I'm honing my skills in data analysis, machine learning, and software development while exploring exciting projects in the field.  
 
 📍 **Institution**: SJCET Palai  
-🎓 **Semester**: 6th  
+🎓 **Semester**: 7th  
 🔍 **GitHub Username**: [shyamhari1074](https://github.com/shyamhari1074)  
 
 ---
